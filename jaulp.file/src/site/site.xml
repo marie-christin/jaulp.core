@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Jaulp">
+
+  <bannerLeft>
+    <name>Jaulp</name>
+    <href>http://jaulp.sourceforge.net/</href>
+  </bannerLeft>
+
+  <bannerRight>
+    <name>Jaulp</name>
+    <src>http://maven.apache.org/images/apache-maven-project.png</src>
+  </bannerRight>
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-default-skin</artifactId>
+  </skin>
+
+  <publishDate format="dd MMM yyyy" />
+
+  <body>
+    <links>
+      <item name="Apache" href="http://www.apache.org/"/>
+      <item name="Maven" href="http://maven.apache.org/"/>
+      <item name="Continuum" href="http://maven.apache.org/continuum"/>
+    </links>
+
+    <head>
+      <meta name="faq" content="proficio"/>
+    </head>
+
+    <menu name="Jaulp">
+      <item name="Overview" href="/overview.html"/>
+      <item name="Downloads" href="http://sourceforge.net/project/showfiles.php?group_id=207406"/>
+      <item name="Dependencies" href="dependencies.html"/>
+      <item name="Mailing Lists" href="http://sourceforge.net/mail/?group_id=207406"/>
+      <item name="Source Repository" href="source-repository.html"/>
+      <item name="License" href="/license.html"/>
+      <item name="Get involved" href="/get-involved.html"/>
+    </menu>
+
+    <menu name="Documentation" inherit="top">
+      <item name="What is Jaulp?" href="/what-is-jaulp.html"/>
+      <!--
+      <item name="User Guide" href="/userguide.html"/>
+      -->
+      <item name="API" href="/apidocs/index.html"/>
+      <item name="Project info" href="/project-info.html"/>
+      <item name="Team" href="/team-list.html"/>
+      <item name="Tracker" href="http://sourceforge.net/tracker/?group_id=207406"/>
+
+      <!--
+      <item name="FAQ" href="/faq.html"/>
+      -->
+      <item name="Wiki" href="http://jaulp.wiki.sourceforge.net/"/>
+      <item name="Donate" href="http://sourceforge.net/donate/index.php?group_id=207406"/>
+    </menu>
+
+<!--
+    <poweredBy>
+
+      <logo>
+        <img>images/project-support.png</img>
+        <name>Support this project!</name>
+        <href>http://sourceforge.net/donate/index.php?group_id=207406</href>
+      </logo>
+
+     </poweredBy>
+
+
+
+    <menu ref="modules" />
+
+<item name="sf.net image" >
+      <a href="http://sourceforge.net/donate/index.php?group_id=207406">
+				<img src="http://images.sourceforge.net/images/project-support.jpg"
+				width="88" height="32"
+				border="0"
+				alt="Support This Project" />
+			</a>
+			</item>
+
+
+    <menu ref="reports" />
+ -->
+  </body>
+</project>

@@ -1,0 +1,15 @@
+EventHandling(in this case  ExceptionHandling):
+
+What shell be concerned in the EventHandling?
+
+What is type of the event?(in this case the Exception):
+
+Context des Ereignisses( Event in diesen Fall die Exception):
+Der Context beschreibt wo der Fehler aufgetreten ist.
+
+Observers
+Objects that want to be informed when an event(in this case the Exception) has occured.
+
+Log the event and causes.
+
+Handle the event.

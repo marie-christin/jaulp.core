@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+
+	<properties>
+		<title>Overview</title>
+		<author email="dev@jaulp.dev.java.net">Jaulp Documentation Team</author>
+	</properties>
+
+	<body>
+
+		<section name="Join the Jaulp community">
+
+			<p>
+				The Jaulp project is built by the open source community. Anyone
+				can get involved
+				by develop new utility classes and modules or submitting
+				documentation or anything else. You
+				can report bugs and explaining
+				with a good level of detail how to reproduce it. This
+				is very
+				important.
+            </p>
+
+
+		</section>
+
+		<section name="What we are looking for">
+			<ul>
+				<li>Developer and webdesigners</li>
+				<li>Documentation</li>
+				<li>Contributors</li>
+				<li>Product and feature suggestions</li>
+				<li>Articles and whitepapers</li>
+				<li>Feedback</li>
+				<li>Bug reporters</li>
+				<li>Bugfixing</li>
+			</ul>
+
+		</section>
+
+
+
+		<section name="How to get involved">
+
+			<p>
+				You can send a request to the
+				<a href="http://sourceforge.net/sendmessage.php?touser=1643182">
+				project manager</a>. Note that you have to be registered and logged in the
+				sf.net so you can send a request.
+				<br> </br>
+				Jaulp development discussion takes place on the
+				<a href="https://sourceforge.net/forum/forum.php?forum_id=743088">
+				developer forum</a>. Note that you have to be registered and logged in the sf.net
+				so you can see the developer forum.
+            </p>
+
+		</section>
+
+	</body>
+
+</document>

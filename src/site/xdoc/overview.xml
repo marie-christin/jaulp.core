@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+
+	<properties>
+		<title>Overview</title>
+		<author email="dev@jaulp.dev.java.net">Jaulp Documentation Team</author>
+	</properties>
+
+	<body>
+		<!--
+	    <section name="Nominate">
+
+	        <a href="http://sourceforge.net/community/cca09/nominate/?project_name=Jaulp">
+	            <img src="http://sourceforge.net/images/cca/cca_nominate.png" border="0"/>
+	        </a>
+
+	    </section>
+	     -->
+
+		<section name="Overview">
+
+
+			<p>
+				The Jaulp project is a utility library with many functionalities.
+				Here are a few of them:
+            </p>
+
+			<ul>
+				<li>Collections extensions.</li>
+				<li>View Comparators.</li>
+				<li>Simple encryption and decryption.</li>
+				<li>Many Date utilities for computing Ages, converting Dates to Timestamp and other useful
+					thinks.</li>
+				<li>Helper classes for send email with attachments.</li>
+				<li>Many File utilities for handling input and output.</li>
+				<li>Validating IBAN-Numbers.</li>
+				<li>Input and Output utilities for serialized object and
+					resources.</li>
+				<li>Helper classes for layouting window components.</li>
+				<li>Helper classes for the network.</li>
+				<li>Helper classes for generate random data.</li>
+				<li>Helper classes for the GUI Swing library.</li>
+			</ul>
+
+		</section>
+
+		<section name="Documentation">
+			<p>
+				The Javadoc API documents are available online:
+            </p>
+
+			<ul>
+				<li>
+					<a href="./apidocs/index.html">Current release 1.1</a>
+				</li>
+			</ul>
+
+		</section>
+
+	</body>
+
+</document>
