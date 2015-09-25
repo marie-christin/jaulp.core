@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.alpharogroup</groupId>
-	<artifactId>cashew.core</artifactId>
+	<artifactId>jaulp.core</artifactId>
 	<version>4.1.0</version>
 	<packaging>pom</packaging>
 	<inceptionYear>2007</inceptionYear>
@@ -15,7 +15,7 @@
 		Jaulp Core Parent is the parent project for all of the core Jaulp projects.
 	</description>
 
-	<url>https://github.com/astrapi69/cashew.core</url>
+	<url>https://github.com/astrapi69/jaulp.core</url>
 
 	<licenses>
 
@@ -48,9 +48,9 @@
 	</organization>
 
 	<scm>
-		<connection>scm:git:git:@github.com:astrapi69/cashew.core.git</connection>
-		<developerConnection>scm:git:git@github.com:astrapi69/cashew.core.git</developerConnection>
-		<url>git:@github.com:astrapi69/cashew.core.git</url>
+		<connection>scm:git:git:@github.com:astrapi69/jaulp.core.git</connection>
+		<developerConnection>scm:git:git@github.com:astrapi69/jaulp.core.git</developerConnection>
+		<url>git:@github.com:astrapi69/jaulp.core.git</url>
 	</scm>
 
 	<distributionManagement>
@@ -68,12 +68,12 @@
 
 	<ciManagement>
 		<system>travis-ci</system>
-		<url>https://travis-ci.org/astrapi69/cashew.core</url>
+		<url>https://travis-ci.org/astrapi69/jaulp.core</url>
 	</ciManagement>
 
 	<issueManagement>
 		<system>github</system>
-		<url>https://github.com/astrapi69/cashew.core/issues</url>
+		<url>https://github.com/astrapi69/jaulp.core/issues</url>
 	</issueManagement>
 
 	<modules>
