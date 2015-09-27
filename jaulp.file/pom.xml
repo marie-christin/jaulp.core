@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>jaulp.core</artifactId>
-		<version>4.1.0</version>
+		<version>4.2.0</version>
 	</parent>
 
 	<artifactId>jaulp.file</artifactId>
