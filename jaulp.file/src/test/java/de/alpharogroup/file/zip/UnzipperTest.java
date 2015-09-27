@@ -260,7 +260,7 @@ public class UnzipperTest extends ZipTestCase
 	 * @throws IOException
 	 *             Signals that an I/O exception has occurred.
 	 */
-	@Test
+	@Test(enabled = false)
 	public void testUnzipWithPassword() throws IOException
 	{
 		// password-protected zip file I need to read
